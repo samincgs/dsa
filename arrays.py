@@ -1,1 +1,1 @@
-# Arrays
+# Arrays (is a sequence of data that is stored one after another in memory)
